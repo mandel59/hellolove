@@ -1,2 +1,2 @@
-Hello, world!
+Hello, LÖVE world!
 こんにちは、世界!
